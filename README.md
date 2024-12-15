@@ -7,6 +7,6 @@ the commercially marketed board game Mastermind.
 
 It is a game that may date back a century or more which uses numbers or words. It is played by two opponents.
 	
-	create by Leonardo Lopez Madrigal 
+	create by Leo 
 	github: @leoCloser 
 	twitter: @leocloser
